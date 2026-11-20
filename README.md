@@ -1,6 +1,6 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name: THANZIL HUSSAIN A</h3>
-<h3>Register Number: 212225240169</h3>
+<h3>Name: JEYAPRIYA J</h3>
+<h3>Register Number: 212224100027</h3>
 <H3>Aim:</H3>
 <p> To Implement Depth First Search Traversal of a Graph using Python 3.</p>
 <h3>Theory:</h3>
